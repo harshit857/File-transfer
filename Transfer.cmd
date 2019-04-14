@@ -1,0 +1,1 @@
+robocopy F:\Source G:\Destination /move /minage:20
